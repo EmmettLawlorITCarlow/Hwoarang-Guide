@@ -1,0 +1,135 @@
+
+
+
+      a.active {
+        background-color: #270000;
+        color: #814545;
+      }
+      .sidenav {
+        height: 100%;
+        width: 120px;
+        position: fixed;
+        top: 90px;
+        left: 0;
+        background-color: #814545;
+        padding-top: 0px;
+      }
+      
+      .sidenav a {
+        padding: 6px 8px 6px 16px;
+        text-decoration: none;
+        font-size: 26px;
+        font-variant: small-caps;
+        color: #ffffff;
+        display: block;
+      }
+      
+      .sidenav a:hover {
+        color: #610000;
+      }
+
+
+      .topbar {
+        font-size: 18px; /*  */
+        text-align: center;
+        background-color: #814545;
+        color:#ffffff;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        padding-top: 0px;
+      }
+
+      h1 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-variant: small-caps;
+      }
+      h2 {
+          font-family: Arial, Helvetica, sans-serif;
+          font-style: normal;
+          font-variant: small-caps;
+          font-size: 28px;
+          padding-top: 100px;
+          color:rgb(54, 0, 0);
+          text-align:center;
+
+      }
+      p {
+          color:black;
+          font-family: Arial, Helvetica, sans-serif;
+          padding-top:20px;
+          padding-left:120px;
+          text-align:center;
+      }
+
+      footer{
+        position:fixed;
+        width: 100%;
+        padding-bottom: 0px;
+        padding-top:0px;
+        bottom: 0%;
+        background-color: #814545;
+        height: 50px;
+        
+
+      }
+
+    
+    
+      #para1 {
+        text-align:left;
+        font-size:20px;
+        }
+    #parafooter{
+        text-align:center;
+        font-size:14px;
+    }
+        
+        #img1 {
+            max-width: 100%;
+            height: 50%;
+            width: 50%;
+            padding-left:0px;
+            padding-right:140px;
+          }
+
+        #combostable {
+            border: 1px solid #814545;
+            background-color: khaki;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 100px;
+        }
+
+        div.gallery {
+            margin: 5px;
+            margin-left: 120px;
+            margin-top: 100px;
+            border: 1px solid #814545;
+            float: left;
+            width: 180px;
+          }
+          
+          div.gallery:hover {
+            border: 3px solid #814545;
+          }
+          
+          div.gallery img {
+            width: 100%;
+            height: auto;
+          }
+          
+          div.desc {
+            padding: 8px;
+            text-align: center;
+          }
+
+          iframe {
+             width:400px;
+             height:auto;
+          }
+      
+ 
